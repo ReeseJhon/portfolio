@@ -1,1 +1,3 @@
-# portfolio
+# Data Scientist
+### Education
+Python, R Programming
